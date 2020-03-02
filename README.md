@@ -7,3 +7,6 @@ The theme of the project is a Patient Questionnaire System. When you go to a doc
 Please use the issue tracker to view the project requirements and determine what you will need to code. We do not want anyone to complete all of the issues. You can decide which issues you’d like to tackle. There are no right or wrong answers but be prepared to explain your decision-making process. This project is open book and internet but please work alone.
 
 Good luck!
+
+
+Useful SQL Lite Browser: https://sqlitebrowser.org/
